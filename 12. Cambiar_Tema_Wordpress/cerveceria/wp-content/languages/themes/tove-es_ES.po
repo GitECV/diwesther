@@ -1,0 +1,421 @@
+# Translation of Themes - Tove in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Tove package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-23 11:29:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Tove\n"
+
+#. Description of the theme
+msgid "Tove is a fun and colorful multi-purpose block theme built entirely around the Full Site Editing features in WordPress 5.9. It's designed with cafes and restaurants in mind, but thanks to the layout features of Full Site Editing, you can easily adapt it for any type of website. Tove bundles over 40 Block Patterns to get you started, including six different header designs and seven different footer designs. You must have the Gutenberg plugin active (version 11.8 or newer) to use Tove before WordPress 5.9 is released, and there may be breaking changes in both Gutenberg and Tove up until that point. Demo: https://andersnoren.se/themes/tove/"
+msgstr "Tove es un divertido y colorido tema multipropósito de bloques construido enteramente en torno a las funcionalidad es de edición completa del sitio de WordPress 5.9. Está diseñado pensando en cafeterías y restaurantes, pero gracias a las funciones de diseño de edición completa del sitio, puedes adaptarlo fácilmente a cualquier tipo de sitio web. Tove incluye más de 40 patrones de bloques para que puedas empezar, incluyendo seis diseños de cabecera y siete de pie de página diferentes. Debes tener el plugin Gutenberg activo (versión 11.8 o más reciente) para utilizar Tove antes de que se publique WordPress 5.9, y podría haber cambios dramáticos tanto en Gutenberg como en Tove hasta que eso ocurra. Demo: https://andersnoren.se/themes/tove/"
+
+#. Theme Name of the theme
+msgid "Tove"
+msgstr "Tove"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr "Terciario a secundario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Background"
+msgstr "Terciario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Quaternary"
+msgstr "Terciario a cuaternario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Background"
+msgstr "Secundario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Tertiary"
+msgstr "Secundario a terciario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Quaternary"
+msgstr "Secundario a cuaternario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Secondary"
+msgstr "Fondo a secundario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Tertiary"
+msgstr "Fondo a terciario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Quaternary"
+msgstr "Fondo a cuaternario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Secondary"
+msgstr "Cuaternario a secundario"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Background"
+msgstr "Cuaternario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Tertiary"
+msgstr "Cuaternario a terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "Senario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "Quinario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Cuaternario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer plano"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Encabezado 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Encabezado 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Encabezado 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Encabezado 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Encabezado 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Encabezado 1"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantesco"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: index.php:7
+msgid "This theme was built for the WordPress experimental full-site-editing feature. You need to install and activate the Gutenberg plugin to make it work."
+msgstr "Este tema se ha creado para la funcionalidad experimental de edición completa del sitio de WordPress. Necesitas instalar y activar el plugin Gutenberg para que funcione."
+
+#: functions.php:503
+msgid "Vertical Borders"
+msgstr "Bordes verticales"
+
+#: functions.php:497
+msgid "Top Separator"
+msgstr "Separador superior"
+
+#: functions.php:491
+msgid "Vertical Separators"
+msgstr "Separadores verticales"
+
+#: functions.php:485
+msgid "Horizontal Separators"
+msgstr "Separadores horizontales"
+
+#: functions.php:479
+msgid "Plain"
+msgstr "Plano"
+
+#: functions.php:472
+msgid "Shaded"
+msgstr "Sombreado"
+
+#: functions.php:418
+msgid "A really big button for reservations."
+msgstr "Un botón realmente grande para reservas."
+
+#: functions.php:412
+msgid "A large section with opening hours."
+msgstr "Una sección grande con horarios de apertura."
+
+#: functions.php:406
+msgid "A table with opening hours."
+msgstr "Una tabla con horarios de apertura."
+
+#: functions.php:400
+msgid "A row with three columns for the restaurant menu."
+msgstr "Una fila con tres columnas para el menú de restaurante."
+
+#: functions.php:394
+msgid "Restaurant menu with columns for three different menu sections."
+msgstr "Menú de restaurante con columnas para tres secciones de menú diferentes."
+
+#: functions.php:388
+msgid "Information block for a restaurant or café location."
+msgstr "Bloque de información para una ubicación de restaurante o cafetería."
+
+#: functions.php:382
+msgid "Promotional section for a featured dish."
+msgstr "Sección promocional para un plato destacado."
+
+#: functions.php:373
+msgid "Hero with a large heading to the left and text to the right."
+msgstr "Hero con un gran título a la izquierda y texto a la derecha."
+
+#: functions.php:367
+msgid "Hero with headings, a paragraph of text, and buttons."
+msgstr "Hero con títulos, un párrafo de texto y botones."
+
+#: functions.php:361
+msgid "Hero with a background image and a heading, paragraph of text, and buttons."
+msgstr "Hero con una imagen de fondo y un título, un párrafo de texto y botones."
+
+#: functions.php:355
+msgid "Hero with a background image, a heading and buttons."
+msgstr "Hero con una imagen de fondo, un título y botones."
+
+#: functions.php:346
+msgid "Header with site title, a menu and social icons stacked and centered."
+msgstr "Cabecera con título del sitio, un menú e iconos de redes sociales apilados y centrados."
+
+#: functions.php:340
+msgid "Header with opening hours, site title, social icons, a menu and a Call us button."
+msgstr "Cabecera con horarios de apertura, título del sitio, iconos de redes sociales, un menú y un botón Llámanos."
+
+#: functions.php:334
+msgid "Header with opening hours, button, site title and a menu."
+msgstr "Cabecera con horarios de apertura, un botón, título del sitio y un menú."
+
+#: functions.php:328
+msgid "Header with site title, a menu and social icons."
+msgstr "Cabecera con título del sitio, un menú e iconos de redes sociales."
+
+#: functions.php:322
+msgid "Header with site title, a menu and buttons."
+msgstr "Cabecera con título del sitio, un menú y botones."
+
+#: functions.php:316
+msgid "Header with site title and a menu. This is the default header in the theme."
+msgstr "Cabecera con título del sitio y un menú. Esta es la cabecera por defecto del tema."
+
+#: functions.php:307
+msgid "Testimonials section with three quotes."
+msgstr "Sección de recomendaciones con tres citas."
+
+#: functions.php:301
+msgid "Pricing table with three tiers."
+msgstr "Tabla de precios con tres niveles."
+
+#: functions.php:295
+msgid "Compact latest news section with three posts."
+msgstr "Sección compacta de últimas noticias con tres entradas."
+
+#: functions.php:289
+msgid "Latest news section with three posts."
+msgstr "Sección de últimas noticias con tres entradas."
+
+#: functions.php:283
+msgid "Large featured section for the latest sticky post on the site."
+msgstr "Amplia sección de destacados para los últimos mensajes fijos en el sitio."
+
+#: functions.php:277
+msgid "Media and text with button."
+msgstr "Medios y texto con botón."
+
+#: functions.php:271
+msgid "Information banner."
+msgstr "Banner informativo."
+
+#: functions.php:265
+msgid "Follow us section with a horizontal layout."
+msgstr "Sección Síguenos con un diseño horizontal."
+
+#: functions.php:259
+msgid "Follow us section with a vertical layout."
+msgstr "Sección Síguenos con un diseño vertical."
+
+#: functions.php:253
+msgid "Full-width feature section with headings, text, and buttons."
+msgstr "Sección de características de ancho completo con encabezados, texto y botones."
+
+#: functions.php:247
+msgid "Frequently Asked Questions (FAQ) section."
+msgstr "Sección de preguntas frecuentes (FAQ)."
+
+#: functions.php:238
+msgid "Footer with site title, theme credit and social icons stacked and centered."
+msgstr "Pie de página con el título del sitio, los créditos del tema y los iconos sociales apilados y centrados."
+
+#: functions.php:232
+msgid "Footer with site title, contact information, and two menus."
+msgstr "Pie de página con título del sitio, información de contacto y dos menús."
+
+#: functions.php:226
+msgid "Footer with site title, information blocks for two business locations, menu and social icons."
+msgstr "Pie de página con título del sitio, bloques de información para dos ubicaciones comerciales, menú e iconos de redes sociales."
+
+#: functions.php:220
+msgid "Footer with site title, menu, opening hours, contact information and social icons in two columns."
+msgstr "Pie de página con título del sitio, menú, horarios de apertura, información de contacto e iconos de redes sociales en dos columnas."
+
+#: functions.php:214
+msgid "Footer with site title, menu, opening hours and contact information in four columns."
+msgstr "Pie de página con título del sitio, menú, horarios de apertura e información de contacto en cuatro columnas."
+
+#: functions.php:208
+msgid "Footer with site title, theme credit and social icons."
+msgstr "Pie de página con el título del sitio, los créditos del tema y los iconos sociales."
+
+#: functions.php:202
+msgid "Footer with site title and theme credit in a centered paragraph. This is the default footer in the theme."
+msgstr "Pie de página con el título del sitio y el crédito del tema en un párrafo centrado. Este es el pie de página por defecto del tema."
+
+#: functions.php:193
+msgid "Vertical call to action."
+msgstr "Llamada a la acción vertical."
+
+#: functions.php:187
+msgid "Horizontal call to action."
+msgstr "Llamada a la acción horizontal."
+
+#: functions.php:178
+msgid "Compact list with featured image, title, and post date."
+msgstr "Lista compacta con imagen destacada, título y fecha de publicación."
+
+#: functions.php:172
+msgid "Compact list with title and post date."
+msgstr "Lista compacta con título y fecha de publicación."
+
+#: functions.php:166
+msgid "List with featured image, title, excerpt, and post date."
+msgstr "Lista con imagen destacada, título, extracto y fecha de publicación."
+
+#: functions.php:160
+msgid "Three column grid with featured image, title, and post date"
+msgstr "Cuadrícula de tres columnas con imagen destacada, título y fecha de publicación"
+
+#: functions.php:154
+msgid "Two column grid with featured image, title, and post date"
+msgstr "Cuadrícula de dos columnas con imagen destacada, título y fecha de publicación"
+
+#: functions.php:126
+msgid "Tove Restaurant"
+msgstr "Restaurante de Tove"
+
+#: functions.php:123
+msgid "Tove Hero"
+msgstr "Tove Hero"
+
+#: functions.php:120
+msgid "Tove Header"
+msgstr "Cabecera de Tove"
+
+#: functions.php:117
+msgid "Tove General"
+msgstr "Opciones generales de Tove"
+
+#: functions.php:114
+msgid "Tove Footer"
+msgstr "Pie de página de Tove"
+
+#: functions.php:111
+msgid "Tove Call to Action"
+msgstr "Llamada a la acción de Tove"
+
+#: functions.php:108
+msgid "Tove Blog"
+msgstr "Blog de Tove"
+
+#. Author URI of the theme
+msgid "https://andersnoren.se"
+msgstr "https://andersnoren.se"
+
+#. Author of the theme
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+msgid "https://andersnoren.se/teman/tove-wordpress-theme/"
+msgstr "https://andersnoren.se/teman/tove-wordpress-theme/"
