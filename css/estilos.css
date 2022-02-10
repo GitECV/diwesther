@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
-@import url("/fonts/LeagueGothic-Regular.otf");
+@font-face {
+  font-family: "Open Sans";
+  src: url("fonts/LeagueGothic-Regular.otf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
 @media (min-width: 1000px) {
   * {
     margin: 0;
