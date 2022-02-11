@@ -83,6 +83,9 @@
     padding-right: 5rem;
   }
 
+  #presentacion {
+    font-family: $fuente-principal;
+  }
 
 }
 
@@ -130,7 +133,7 @@
   }
 
   h1 {
-    font-family: "League Gothic", arial;
+    font-family: $fuente-secundaria;
     letter-spacing: 4px;
   }
 
@@ -174,6 +177,10 @@
     width: 25rem;
     height: 25rem;
   }
+
+  #presentacion {
+    font-family: $fuente-principal;
+  }
 }
 
 @media (min-width: 300px) and (max-width: 800px) {
@@ -198,7 +205,7 @@
   }
 
   h1 {
-    font-family: "League Gothic", arial;
+    font-family: $fuente-secundaria;
     letter-spacing: 4px;
     text-align-last: center;
   }
@@ -217,5 +224,9 @@
       justify-content: center;
 
       padding: 2rem, 0, 2rem, 0;
+  }
+
+  #presentacion {
+    font-family: $fuente-principal;
   }
 }

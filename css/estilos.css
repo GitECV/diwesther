@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
 @font-face {
-  font-family: "Open Sans";
-  src: url("fonts/LeagueGothic-Regular.otf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
+  font-family: Gothic;
+  src: url("/fonts/LeagueGothic-Regular.otf");
 }
 @media (min-width: 1000px) {
   * {
@@ -46,7 +44,7 @@
   }
 
   h1 {
-    font-family: "League Gothic", arial, arial;
+    font-family: "Gothic", arial, arial;
     letter-spacing: 4px;
   }
 
@@ -83,6 +81,10 @@
 
   #introduccion {
     padding-right: 5rem;
+  }
+
+  #presentacion {
+    font-family: "Montserrat", sans-serif;
   }
 }
 @media (min-width: 800px) and (max-width: 1000px) {
@@ -121,12 +123,12 @@
   }
 
   .boton:hover {
-    color: "League Gothic", arial;
+    color: "Gothic", arial;
     text-shadow: 1px 1px 2px #757575;
   }
 
   h1 {
-    font-family: "League Gothic", arial;
+    font-family: "Gothic", arial;
     letter-spacing: 4px;
   }
 
@@ -171,6 +173,10 @@
     width: 25rem;
     height: 25rem;
   }
+
+  #presentacion {
+    font-family: "Montserrat", sans-serif;
+  }
 }
 @media (min-width: 300px) and (max-width: 800px) {
   * {
@@ -194,7 +200,7 @@
   }
 
   h1 {
-    font-family: "League Gothic", arial;
+    font-family: "Gothic", arial;
     letter-spacing: 4px;
     text-align-last: center;
   }
@@ -213,6 +219,10 @@
     flex-direction: row;
     justify-content: center;
     padding: 2rem, 0, 2rem, 0;
+  }
+
+  #presentacion {
+    font-family: "Montserrat", sans-serif;
   }
 }
 

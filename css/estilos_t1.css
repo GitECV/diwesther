@@ -1,9 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
 @font-face {
-  font-family: "Open Sans";
-  src: url("fonts/LeagueGothic-Regular.otf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
+  font-family: Gothic;
+  src: url("/fonts/LeagueGothic-Regular.otf");
 }
 * {
   padding: 0;
@@ -18,7 +16,7 @@ header {
   height: 4rem;
   width: 100%;
   background-color: #FFFD95;
-  font-family: "League Gothic", arial;
+  font-family: "Gothic", arial;
   letter-spacing: 5px;
   font-size: larger;
 }
@@ -31,8 +29,9 @@ article {
 
 .trabajo {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+  padding-left: auto;
 }
 
 .icono {
@@ -41,7 +40,7 @@ article {
 }
 
 .trabajo:hover {
-  background-color: #fffc51;
+  background-color: #FFFD95;
 }
 
 /*# sourceMappingURL=estilos_t1.css.map */

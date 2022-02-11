@@ -27,8 +27,9 @@ article {
 
 .trabajo {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+  padding-left:auto;
 }
 
 .icono {
@@ -37,5 +38,5 @@ article {
 }
 
 .trabajo:hover {
-    background-color: $color-secundario-dk;
+    background-color: $color-secundario;
 }
