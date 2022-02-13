@@ -22,9 +22,21 @@ header {
 }
 
 article {
+  display: flex;
+  flex-direction: column;
   padding-left: 1rem;
   padding-top: 1rem;
   font-family: "Montserrat", sans-serif;
+}
+
+#botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.boton {
+  padding: 1rem;
 }
 
 .trabajo {
@@ -32,6 +44,9 @@ article {
   flex-direction: column;
   justify-content: center;
   padding-left: auto;
+  margin: 1rem;
+  padding: 2rem;
+  text-align: center;
 }
 
 .icono {
@@ -41,6 +56,18 @@ article {
 
 .trabajo:hover {
   background-color: #FFFD95;
+}
+
+.redondeo {
+  border-radius: 15px;
+  border: 1px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+
+h1 {
+  font-size: 2.5rem;
 }
 
 /*# sourceMappingURL=estilos_t1.css.map */
