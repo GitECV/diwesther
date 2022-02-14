@@ -19,6 +19,9 @@ header {
   font-family: "Gothic", arial;
   letter-spacing: 5px;
   font-size: larger;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
 }
 
 article {
@@ -50,8 +53,8 @@ article {
 }
 
 .icono {
+  padding-left: 3rem;
   width: 100px;
-  padding-left: 2.5rem;
 }
 
 .trabajo:hover {

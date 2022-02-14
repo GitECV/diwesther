@@ -47,3 +47,23 @@ const mock_trab = document.querySelector("#mock_trab");
 mock_trab.addEventListener("click", function () {
     window.location.href = "5.Mockup Joyeria/Mockup_Joyeria.bmpr";
 });
+
+const mockA_trab = document.querySelector("#mockA_trab");
+mockA_trab.addEventListener("click", function () {
+    window.location.href = "7.Prototipado_Axure/home.html";
+});
+
+const guia_trab = document.querySelector("#guia_doc");
+guia_trab.addEventListener("click", function () {
+    window.location.href = "8.Guia_de_estilos/Guia_De_Estilos.pdf";
+});
+
+const wordpress = document.querySelector("#wordpress");
+wordpress.addEventListener("click", function () {
+    window.location.href = "9.Wordpress/plantilla.html";
+});
+
+const mat = document.querySelector("#materialize");
+mat.addEventListener("click", function () {
+    window.location.href = "10.Materialize/materialize/index.html";
+});
